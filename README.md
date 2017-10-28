@@ -4,6 +4,7 @@ MIB - plot
 http://pysnmp.sourceforge.net/
 
 
+
 SNMPv2c
 Send SNMP GET request using the following options:
 with SNMPv2c, community ‘public’
@@ -14,6 +15,7 @@ Functionally similar to:
 $ snmpget -v2c -c public demo.snmplabs.com 1.3.6.1.2.1.1.1.0 1.3.6.1.2.1.1.6.0
 
 http://snmplabs.com/pysnmp/examples/hlapi/asyncore/sync/manager/cmdgen/snmp-versions.html
+
 
 
 VIDEOS - playlist sobre interface gráfica
