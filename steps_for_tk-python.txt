@@ -1,0 +1,11 @@
+sudo apt-get install python3-matplotlib
+sudo apt-get install tk-dev
+sudo apt-get install python3-tk
+sudo apt-get install python-tk
+
+
+https://www.youtube.com/watch?v=1TH9kper-IE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE&index=20
+
+
+
+sudo apt-get install python-setuptools
